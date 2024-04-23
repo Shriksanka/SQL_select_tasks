@@ -7,7 +7,7 @@ This repository is dedicated to the exploration and utilization of the DVD renta
 ## Contents
 
 - `dvd-rental-sample-database-diagram.png` - An ERD of the DVD rental database, showcasing the relationships and structure of the database tables.
-- `SQL_SELECT.sql` - A collection of SQL `SELECT` statements used to query the DVD rental database, perfect for practicing and learning SQL queries.
+- `SQL_SELECT.sql` and `SQL_SELECT_1.sql` - A collection of SQL `SELECT` statements used to query the DVD rental database, perfect for practicing and learning SQL queries.
 - `dvdrental` - The actual backup file of the DVD rental database which can be restored in a PostgreSQL environment.
 
 ## Database Diagram
